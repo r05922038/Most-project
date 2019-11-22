@@ -1,0 +1,274 @@
+#number of obstacles
+16
+# obstacle #0
+# height_size
+3.500000
+# height_tofloor
+0.000000
+# number of polygons
+1
+# polygon #0
+# number of vertices
+4
+# vertices
+48.000000 48.000000
+48.000000 80.000000
+80.000000 80.000000
+80.000000 48.000000
+# initial configuration
+64.000000 64.000000 0.000000
+# obstacle #1
+# height
+3.000000
+# height_tofloor
+0.000000
+# number of polygons
+1
+# polygon #0
+# number of vertices
+4
+# vertices
+58.000000 80.000000
+58.000000 92.000000
+70.000000 92.000000
+70.000000 80.000000
+# initial configuration
+64.000000 86.000000 0.000000
+# obstacle #2
+# height
+2.500000
+# height_tofloor
+0.000000
+# number of polygons
+1
+# polygon #0
+# number of vertices
+4
+# vertices
+60.000000 92.000000
+60.000000 104.000000
+72.000000 104.000000
+72.000000 92.000000
+# initial configuration
+66.000000 98.000000 0.000000
+# obstacle #3
+# height
+2.000000
+# height_tofloor
+0.000000
+# number of polygons
+1
+# polygon #0
+# number of vertices
+4
+# vertices
+62.000000 104.000000
+62.000000 116.000000
+74.000000 116.000000
+74.000000 104.000000
+# initial configuration
+68.000000 110.000000 0.000000
+# obstacle #4
+# height
+1.500000
+# height_tofloor
+0.000000
+# number of polygons
+1
+# polygon #0
+# number of vertices
+4
+# vertices
+74.000000 102.000000
+74.000000 118.000000
+90.000000 118.000000
+90.000000 102.000000
+# initial configuration
+82.000000 110.000000 0.000000
+# obstacle #5
+# height
+1.000000
+# height_tofloor
+0.000000
+# number of polygons
+1
+# polygon #0
+# number of vertices
+4
+# vertices
+90.000000 100.000000
+90.000000 120.000000
+110.000000 120.000000
+110.000000 100.000000
+# initial configuration
+100.000000 110.000000 0.000000
+# obstacle #6
+# height
+0.500000
+# height_tofloor
+0.000000
+# number of polygons
+1
+# polygon #0
+# number of vertices
+4
+# vertices
+98.000000 88.000000
+98.000000 112.000000
+122.000000 112.000000
+122.000000 88.000000
+# initial configuration
+110.000000 100.000000 0.000000
+# obstacle #1
+# height
+3.000000
+# height_tofloor
+0.000000
+# number of polygons
+1
+# polygon #0
+# number of vertices
+4
+# vertices
+38.000000 55.000000
+38.000000 65.000000
+48.000000 65.000000
+48.000000 55.000000
+# initial configuration
+43.000000 60.000000 0.000000
+# obstacle #2
+# height
+2.500000
+# height_tofloor
+0.000000
+# number of polygons
+1
+# polygon #0
+# number of vertices
+4
+# vertices
+28.000000 53.000000
+28.000000 63.000000
+38.000000 63.000000
+38.000000 53.000000
+# initial configuration
+33.000000 58.000000 0.000000
+# obstacle #3
+# height
+2.000000
+# height_tofloor
+0.000000
+# number of polygons
+1
+# polygon #0
+# number of vertices
+4
+# vertices
+26.000000 43.000000
+26.000000 53.000000
+36.000000 53.000000
+36.000000 43.000000
+# initial configuration
+31.000000 48.000000 0.000000
+# obstacle #4
+# height
+1.500000
+# height_tofloor
+0.000000
+# number of polygons
+1
+# polygon #0
+# number of vertices
+4
+# vertices
+28.000000 33.000000
+28.000000 43.000000
+38.000000 43.000000
+38.000000 33.000000
+# initial configuration
+33.000000 38.000000 0.000000
+# obstacle #5
+# height
+1.000000
+# height_tofloor
+0.000000
+# number of polygons
+1
+# polygon #0
+# number of vertices
+4
+# vertices
+34.000000 29.000000
+34.000000 43.000000
+48.000000 43.000000
+48.000000 29.000000
+# initial configuration
+41.000000 36.000000 0.000000
+# obstacle #6
+# height
+0.500000
+# height_tofloor
+0.000000
+# number of polygons
+1
+# polygon #0
+# number of vertices
+4
+# vertices
+43.000000 25.000000
+43.000000 43.000000
+61.000000 43.000000
+61.000000 25.000000
+# initial configuration
+52.000000 34.000000 0.000000
+# obstacle #14
+# height
+1.500000
+# height_tofloor
+0.000000
+# number of polygons
+1
+# polygon #0
+# number of vertices
+4
+# vertices
+35.000000 65.000000
+35.000000 103.000000
+47.000000 103.000000
+47.000000 65.000000
+# initial configuration
+41.000000 84.000000 -38.000000
+# obstacle #15
+# height
+2.000000
+# height_tofloor
+0.000000
+# number of polygons
+1
+# polygon #0
+# number of vertices
+4
+# vertices
+48.000000 92.000000
+48.000000 104.000000
+60.000000 104.000000
+60.000000 92.000000
+# initial configuration
+54.000000 98.000000 0.000000
+# obstacle #16
+# height
+2.000000
+# height_tofloor
+0.000000
+# number of polygons
+1
+# polygon #0
+# number of vertices
+4
+# vertices
+25.000000 63.000000
+25.000000 75.000000
+37.000000 75.000000
+37.000000 63.000000
+# initial configuration
+31.000000 69.000000 0.000000

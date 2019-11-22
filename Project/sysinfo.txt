@@ -1,0 +1,772 @@
+System:
+  OS: Windows 7 Service Pack 1 (6.1.7601) 64bit
+  CPU: Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz, count: 4
+  Physical RAM: 8031 MB
+  Addressable RAM: 2048 MB
+
+D3D9:
+  Renderer: Intel(R) HD Graphics 4000
+  VendorID: 8086
+  Driver: igdumd32.dll 8.15.10.2618
+  VRAM: 944 (via DXGI)
+
+OpenGL:
+  Version: 3.3.0 - Build 8.15.10.2618
+  Vendor: Intel
+  Renderer: Intel(R) HD Graphics 4000
+  VRAM: 944 (via DXGI)
+  Extensions: GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_blend_color GL_EXT_abgr GL_EXT_texture3D GL_EXT_clip_volume_hint GL_EXT_compiled_vertex_array GL_SGIS_texture_edge_clamp GL_SGIS_generate_mipmap GL_EXT_draw_range_elements GL_SGIS_texture_lod GL_EXT_rescale_normal GL_EXT_packed_pixels GL_EXT_texture_edge_clamp GL_EXT_separate_specular_color GL_ARB_multitexture GL_EXT_texture_env_combine GL_EXT_bgra GL_EXT_blend_func_separate GL_EXT_secondary_color GL_EXT_fog_coord GL_EXT_texture_env_add GL_ARB_texture_cube_map GL_ARB_transpose_matrix GL_ARB_texture_env_add GL_IBM_texture_mirrored_repeat GL_EXT_multi_draw_arrays GL_NV_blend_square GL_ARB_texture_compression GL_3DFX_texture_compression_FXT1 GL_EXT_texture_filter_anisotropic GL_ARB_texture_border_clamp GL_ARB_point_parameters GL_ARB_texture_env_combine GL_ARB_texture_env_dot3 GL_ARB_texture_env_crossbar GL_EXT_texture_compression_s3tc GL_ARB_shadow GL_ARB_window_pos GL_EXT_shadow_funcs GL_EXT_stencil_wrap GL_ARB_vertex_program GL_EXT_texture_rectangle GL_ARB_fragment_program GL_EXT_stencil_two_side GL_ATI_separate_stencil GL_ARB_vertex_buffer_object GL_EXT_texture_lod_bias GL_ARB_occlusion_query GL_ARB_fragment_shader GL_ARB_shader_objects GL_ARB_shading_language_100 GL_ARB_texture_non_power_of_two GL_ARB_vertex_shader GL_NV_texgen_reflection GL_ARB_point_sprite GL_ARB_fragment_program_shadow GL_EXT_blend_equation_separate GL_ARB_depth_texture GL_ARB_texture_rectangle GL_ARB_draw_buffers GL_ARB_color_buffer_float GL_ARB_half_float_pixel GL_ARB_texture_float GL_ARB_pixel_buffer_object GL_EXT_framebuffer_object GL_ARB_draw_instanced GL_ARB_half_float_vertex GL_ARB_occlusion_query2 GL_EXT_draw_buffers2 GL_WIN_swap_hint GL_EXT_texture_sRGB GL_ARB_multisample GL_EXT_packed_float GL_EXT_texture_shared_exponent GL_ARB_texture_rg GL_ARB_texture_compression_rgtc GL_NV_conditional_render GL_EXT_texture_swizzle GL_ARB_sync GL_ARB_framebuffer_sRGB GL_EXT_packed_depth_stencil GL_ARB_depth_buffer_float GL_EXT_transform_feedback GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_ARB_framebuffer_object GL_EXT_texture_array GL_EXT_texture_integer GL_ARB_map_buffer_range GL_EXT_texture_snorm GL_ARB_blend_func_extended GL_INTEL_performance_queries GL_ARB_copy_buffer GL_ARB_sampler_objects GL_NV_primitive_restart GL_ARB_seamless_cube_map GL_ARB_uniform_buffer_object GL_ARB_depth_clamp GL_ARB_vertex_array_bgra GL_ARB_shader_bit_encoding GL_ARB_draw_buffers_blend GL_ARB_geometry_shader4 GL_ARB_texture_query_lod GL_ARB_explicit_attrib_location GL_ARB_draw_elements_base_vertex GL_ARB_instanced_arrays GL_ARB_fragment_coord_conventions GL_EXT_gpu_program_parameters GL_ARB_texture_buffer_object_rgb32 GL_ARB_compatibility GL_ARB_texture_rgb10_a2ui GL_ARB_texture_multisample GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_timer_query GL_ARB_vertex_array_object GL_ARB_provoking_vertex 
+
+User locale: zh-TW
+System locale: zh-TW
+
+Running processes:
+GoogleCrashHandler.exe (4888)
+    path: C:\Users\tina\AppData\Local\Google\Update\1.3.29.1\GoogleCrashHandler.exe
+    company:  Google Inc.
+    product:  Google Update
+    filedesc: Google Crash Handler
+    filever:  1.3.29.1
+    prodver:  1.3.29.1
+BingSvc.exe (5328)
+    path: C:\Users\tina\AppData\Local\Microsoft\BingSvc\BingSvc.exe
+    company:  c 2015 Microsoft Corporation
+    product:  Microsoft Bing Service
+    filedesc: Microsoft Bing Service
+    filever:  1.0.6.0
+    prodver:  1.0.6.0
+chrome.exe (5388)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+Dropbox.exe (5484)
+    path: C:\Users\tina\AppData\Roaming\Dropbox\bin\Dropbox.exe
+    company:  Dropbox, Inc.
+    product:  Dropbox
+    filedesc: Dropbox
+    filever:  3.12.5.0
+    prodver:  1.0.0.1
+chrome.exe (5608)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (5884)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+BackupManagerTray.exe (6028)
+    path: C:\Program Files (x86)\NTI\Acer Backup Manager\BackupManagerTray.exe
+    company:  NTI Corporation
+    product:  Acer Backup Manager
+    filedesc: Acer Backup Manager
+    filever:  3.0.0.102
+    prodver:  3.0.0.102
+LManager.exe (5272)
+    path: C:\Program Files (x86)\Launch Manager\LManager.exe
+    company:  Dritek System Inc.
+    product:  Launch Manager
+    filedesc: Launch Manager
+    filever:  5.1.13.2715
+    prodver:  5.1.13.2715
+chrome.exe (5244)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (4864)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (4856)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+iusb3mon.exe (5352)
+    path: C:\Program Files (x86)\Intel\Intel(R) USB 3.0 eXtensible Host Controller Driver\Application\iusb3mon.exe
+    company:  Intel Corporation
+    product:  Intel(R) USB 3.0 Monitor
+    filedesc: Intel(R) USB 3.0 Monitor
+    filever:  1.0.0.120
+    prodver:  1.0.0.120
+htcUPCTLoader.exe (5324)
+    path: C:\Program Files (x86)\HTC\HTC Sync 3.0\htcUPCTLoader.exe
+    company:  
+    product:  HTC UPCT
+    filedesc: HTC UPCT Loader
+    filever:  1.0.2.34
+    prodver:  1.0.2.34
+iTunesHelper.exe (3128)
+    path: C:\Program Files (x86)\iTunes\iTunesHelper.exe
+    company:  Apple Inc.
+    product:  iTunes
+    filedesc: iTunesHelper
+    filever:  11.1.3.8
+    prodver:  11.1.3.8
+BaiduYunGuanjia.exe (5900)
+    path: C:\Users\tina\AppData\Roaming\baidu\BaiduYunGuanjia\BaiduYunGuanjia.exe
+    company:  
+    product:  BaiduYunGuanjia Application
+    filedesc: BaiduYunGuanjia
+    filever:  5.3.6.0
+    prodver:  5.3.6.0
+iuBrowserIEAgent.exe (6932)
+    path: C:\Program Files\Acer\Acer Instant Service\InstantUpdate\iuBrowserIEAgent.exe
+    company:  
+    product:  iuBrowserIEAgent
+    filedesc: iuBrowserIEAgent
+    filever:  1.0.3004.0
+    prodver:  1.0.3004.0
+iuEmailOutlookAgent.exe (6956)
+    path: C:\Program Files\Acer\Acer Instant Service\InstantUpdate\iuEmailOutlookAgent.exe
+    company:  
+    product:  iuEmailOutlookAgent
+    filedesc: iuEmailOutlookAgent
+    filever:  1.0.3004.0
+    prodver:  1.0.3004.0
+jusched.exe (6456)
+    path: C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe
+    company:  Oracle Corporation
+    product:  Java Platform SE Auto Updater
+    filedesc: Java Update Scheduler
+    filever:  2.8.45.15
+    prodver:  2.8.45.15
+jucheck.exe (2580)
+    path: C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+    company:  Oracle Corporation
+    product:  Java Platform SE Auto Updater
+    filedesc: Java Update Checker
+    filever:  2.8.45.15
+    prodver:  2.8.45.15
+chrome.exe (3644)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (4416)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (5076)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (5772)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (6532)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7064)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (1168)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (4476)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (4464)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (3368)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (2628)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (2588)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (3152)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (4072)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (6884)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (6700)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (6628)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7660)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7668)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7676)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7704)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7712)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7740)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7756)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7764)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7788)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7808)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7828)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7836)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7852)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7860)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7872)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7888)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7900)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7908)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7916)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7924)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7932)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7940)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7948)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7960)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (8076)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (8176)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7260)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7328)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (8272)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (8312)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (8392)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (8400)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (8608)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (8688)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (8744)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (8976)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (9096)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (9108)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (9128)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (3148)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (9240)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (9280)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (9496)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (9576)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (9604)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+ismagent.exe (5312)
+    path: C:\Program Files (x86)\Intel\Intel(R) ME FW Recovery Agent\bin\ismagent.exe
+    company:  Intel Corporation
+    product:  Intel Services Manager
+    filedesc: Intel Services Manager
+    filever:  1.8.0.34787
+    prodver:  1.8.0.34787
+updateui.exe (9712)
+    path: C:\Program Files (x86)\Intel\Intel(R) ME FW Recovery Agent\bin\updateui.exe
+    company:  
+    product:  
+    filedesc: 
+    filever:  0.0.0.0
+    prodver:  0.0.0.0
+EXCEL.EXE (4300)
+    path: C:\Program Files (x86)\Microsoft Office\Office14\EXCEL.EXE
+    company:  Microsoft Corporation
+    product:  Microsoft Office 2010
+    filedesc: Microsoft Excel
+    filever:  14.0.7164.5000
+    prodver:  14.0.7164.0
+chrome.exe (11492)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (8800)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+MonoDevelop.exe (11548)
+    path: C:\Program Files (x86)\Unity\MonoDevelop\bin\MonoDevelop.exe
+    company:  
+    product:  MonoDevelop
+    filedesc: MonoDevelop
+    filever:  2.6.0.0
+    prodver:  2.6.0.0
+chrome.exe (6104)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (12744)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (11352)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (11400)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (14052)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+MonoDevelop.exe (12880)
+    path: C:\Program Files (x86)\Unity\MonoDevelop\bin\MonoDevelop.exe
+    company:  
+    product:  MonoDevelop
+    filedesc: MonoDevelop
+    filever:  2.6.0.0
+    prodver:  2.6.0.0
+WINWORD.EXE (11280)
+    path: C:\Program Files (x86)\Microsoft Office\Office14\WINWORD.EXE
+    company:  Microsoft Corporation
+    product:  Microsoft Office 2010
+    filedesc: Microsoft Word
+    filever:  14.0.7164.5001
+    prodver:  14.0.7164.0
+chrome.exe (8768)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (7320)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (13708)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (12228)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (5144)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+WINWORD.EXE (13956)
+    path: C:\Program Files (x86)\Microsoft Office\Office14\WINWORD.EXE
+    company:  Microsoft Corporation
+    product:  Microsoft Office 2010
+    filedesc: Microsoft Word
+    filever:  14.0.7164.5001
+    prodver:  14.0.7164.0
+AcroRd32.exe (5812)
+    path: C:\Program Files (x86)\Adobe\Reader 10.0\Reader\AcroRd32.exe
+    company:  Adobe Systems Incorporated
+    product:  Adobe Reader
+    filedesc: Adobe Reader 
+    filever:  10.1.16.13
+    prodver:  10.1.16.13
+AcroRd32.exe (13132)
+    path: C:\Program Files (x86)\Adobe\Reader 10.0\Reader\AcroRd32.exe
+    company:  Adobe Systems Incorporated
+    product:  Adobe Reader
+    filedesc: Adobe Reader 
+    filever:  10.1.16.13
+    prodver:  10.1.16.13
+wmplayer.exe (15632)
+    path: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+    company:  Microsoft Corporation
+    product:  MicrosoftR WindowsR Operating System
+    filedesc: Windows Media Player
+    filever:  12.0.7601.18840
+    prodver:  12.0.7601.18840
+POWERPNT.EXE (772)
+    path: C:\Program Files (x86)\Microsoft Office\Office14\POWERPNT.EXE
+    company:  Microsoft Corporation
+    product:  Microsoft Office 2010
+    filedesc: Microsoft PowerPoint
+    filever:  14.0.7162.5000
+    prodver:  14.0.7162.0
+chrome.exe (14924)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+chrome.exe (14444)
+    path: C:\Users\tina\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  47.0.2526.106
+    prodver:  47.0.2526.106
+UnityBugReporter.exe (8048)
+    path: C:\Program Files (x86)\Unity\Editor\UnityBugReporter.exe
+    company:  Unity Technologies ApS
+    product:  Unity Bug Reporter
+    filedesc: Unity Bug Reporter
+    filever:  4.6.0.47091
+    prodver:  4.6.0.47091
